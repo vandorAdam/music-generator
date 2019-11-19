@@ -15,7 +15,6 @@ def comp_to_music(json_file, global_root, bpm, midi_file=None, soundfont='full_g
     rectangle_data = comp['rectangle']
     triangle_data = comp['triangle']
     circle_data = comp['circle']
-
     sheets = list()
 
     if triangle_data:
@@ -63,9 +62,6 @@ if __name__ == '__main__':
             print('Use 32 < root < 48')
             sys.exit()
 
-
-    bpm = args.bpm
     global_root = get_global_root_note(args.root)
-    json_file = args.comp
 
-    comp_to_music(json_file, global_root, bpm)
+    comp_to_music(args.comp, global_root, args.bpm)
