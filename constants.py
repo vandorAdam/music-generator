@@ -40,7 +40,7 @@ class Constants:
         self.exclude_tuples = False
         self.lag = False
 
-        self.arp_ratio = 0.7
+        self.arp_ratio = 0.8
         self.playfulness = 0
 
         self.circle_multiplier = 5
