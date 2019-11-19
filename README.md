@@ -2,8 +2,9 @@
 
 ## Requirements
 
-- midi2audio (https://github.com/bzamecnik/midi2audio)
-- python-midi (https://github.com/vishnubob/python-midi)
+* midi2audio (https://github.com/bzamecnik/midi2audio)
+* python-midi (https://github.com/vishnubob/python-midi)
+* pandas
 
 ## Usage
 
