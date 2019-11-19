@@ -43,8 +43,8 @@ class Constants:
         self.arp_ratio = 0.8
         self.playfulness = 0
 
-        self.circle_multiplier = 5
-        self.triangle_multiplier = 3
+        self.circle_multiplier = 10
+        self.triangle_multiplier = 6
 
         self.threshold_small = 1/3
         self.threshold_large = 2/3
