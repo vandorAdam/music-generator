@@ -7,9 +7,9 @@
 
 # Usage
 
-'''
+```
 $ python comp_to_music.py <comp.json> [--seed] [--bpm] [--root]
-'''
+```
 
 *bpm: tempo. Default: 120.
 *root: key of generated music. Default: None. Use int range [33, ..., 47].
