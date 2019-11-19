@@ -41,7 +41,7 @@ class Constants:
         self.lag = False
 
         self.arp_ratio = 0.7
-        self.playfulness = 0.5
+        self.playfulness = 0
 
         self.circle_multiplier = 5
         self.triangle_multiplier = 3

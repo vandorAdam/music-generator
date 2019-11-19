@@ -58,6 +58,12 @@ if __name__ == '__main__':
         print('Usage: python comp_to_music.py <comp.json> [--seed] [--bpm] [--root]')
         sys.exit()
 
+    if args.root is not None:
+        if args.root < 33 or args.root > 47:
+            print('Use 32 < root < 48')
+            sys.exit()
+
+
     bpm = args.bpm
     global_root = get_global_root_note(args.root)
     json_file = args.comp
