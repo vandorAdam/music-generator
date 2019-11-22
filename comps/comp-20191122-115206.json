@@ -1,0 +1,682 @@
+{
+    "world": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "scale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    },
+    "camera": {
+        "backgroundColor": {
+            "r": 0.729411780834198,
+            "g": 0.02745099738240242,
+            "b": 0.02745099738240242,
+            "a": 1.0
+        },
+        "transform": {
+            "position": {
+                "x": 1.0510070323944092,
+                "y": -1.236472487449646,
+                "z": 1.168981909751892
+            },
+            "rotation": {
+                "x": 0.5412506461143494,
+                "y": 0.706607460975647,
+                "z": 0.0961948037147522,
+                "w": -0.4455336034297943
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "fieldOfView": 50.0,
+        "orthographic": true
+    },
+    "shapes": [
+        {
+            "transform": {
+                "position": {
+                    "x": -0.4435824155807495,
+                    "y": -0.17519420385360719,
+                    "z": 0.21350687742233277
+                },
+                "rotation": {
+                    "x": 0.5412506461143494,
+                    "y": 0.706607460975647,
+                    "z": 0.0961948037147522,
+                    "w": -0.4455336034297943
+                },
+                "scale": {
+                    "x": 0.166425883769989,
+                    "y": 0.16642585396766663,
+                    "z": 0.166425883769989
+                }
+            },
+            "shapeFilename": "shapes-04",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": 0.4805697798728943,
+                    "y": 0.1136050820350647,
+                    "z": -0.15094339847564698
+                },
+                "rotation": {
+                    "x": 0.5556791424751282,
+                    "y": 0.7114527225494385,
+                    "z": 0.1774025708436966,
+                    "w": -0.39189815521240237
+                },
+                "scale": {
+                    "x": 0.1664258986711502,
+                    "y": 0.1664259135723114,
+                    "z": 0.1664259433746338
+                }
+            },
+            "shapeFilename": "shapes-04",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": 0.02817833423614502,
+                    "y": 0.06353044509887696,
+                    "z": 0.053262174129486087
+                },
+                "rotation": {
+                    "x": 0.5556791424751282,
+                    "y": 0.7114527225494385,
+                    "z": 0.1774025708436966,
+                    "w": -0.39189815521240237
+                },
+                "scale": {
+                    "x": 0.1664258986711502,
+                    "y": 0.1664259135723114,
+                    "z": 0.1664259433746338
+                }
+            },
+            "shapeFilename": "shapes-07",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": 0.2309127151966095,
+                    "y": -0.19561296701431275,
+                    "z": -0.34579718112945559
+                },
+                "rotation": {
+                    "x": 0.5556791424751282,
+                    "y": 0.7114527225494385,
+                    "z": 0.1774025708436966,
+                    "w": -0.39189815521240237
+                },
+                "scale": {
+                    "x": 0.1664258986711502,
+                    "y": 0.1664259135723114,
+                    "z": 0.1664259433746338
+                }
+            },
+            "shapeFilename": "shapes-06",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": 0.2866423428058624,
+                    "y": 0.21979981660842896,
+                    "z": 0.07602494955062866
+                },
+                "rotation": {
+                    "x": 0.5556791424751282,
+                    "y": 0.7114527225494385,
+                    "z": 0.1774025708436966,
+                    "w": -0.39189815521240237
+                },
+                "scale": {
+                    "x": 0.1664258986711502,
+                    "y": 0.1664259135723114,
+                    "z": 0.1664259433746338
+                }
+            },
+            "shapeFilename": "shapes-06",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": -0.12345114350318909,
+                    "y": 0.2411707639694214,
+                    "z": 0.3340568542480469
+                },
+                "rotation": {
+                    "x": 0.5556791424751282,
+                    "y": 0.7114527225494385,
+                    "z": 0.1774025708436966,
+                    "w": -0.39189815521240237
+                },
+                "scale": {
+                    "x": 0.1664258986711502,
+                    "y": 0.1664259135723114,
+                    "z": 0.1664259433746338
+                }
+            },
+            "shapeFilename": "shapes-05",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": 0.22590765357017518,
+                    "y": 0.31380224227905276,
+                    "z": 0.21345216035842896
+                },
+                "rotation": {
+                    "x": 0.5556791424751282,
+                    "y": 0.7114527225494385,
+                    "z": 0.1774025708436966,
+                    "w": -0.39189815521240237
+                },
+                "scale": {
+                    "x": 0.1664258986711502,
+                    "y": 0.1664259135723114,
+                    "z": 0.1664259433746338
+                }
+            },
+            "shapeFilename": "shapes-04",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": -0.40140724182128909,
+                    "y": 0.01270359754562378,
+                    "z": -0.2385164201259613
+                },
+                "rotation": {
+                    "x": -0.3477977514266968,
+                    "y": 0.2993697226047516,
+                    "z": 0.12695516645908357,
+                    "w": 0.8793730735778809
+                },
+                "scale": {
+                    "x": 0.19673925638198853,
+                    "y": 0.19673925638198853,
+                    "z": 0.19673925638198853
+                }
+            },
+            "shapeFilename": "shapes-04",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": -0.012046992778778077,
+                    "y": -0.3278278112411499,
+                    "z": -0.3541008234024048
+                },
+                "rotation": {
+                    "x": 0.553631603717804,
+                    "y": 0.0339270681142807,
+                    "z": 0.16708031296730042,
+                    "w": 0.8151227831840515
+                },
+                "scale": {
+                    "x": 0.2043232023715973,
+                    "y": 0.2043232023715973,
+                    "z": 0.2043232023715973
+                }
+            },
+            "shapeFilename": "shapes-06",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": -0.40757548809051516,
+                    "y": -0.062434256076812747,
+                    "z": -0.22819432616233827
+                },
+                "rotation": {
+                    "x": 0.8735827207565308,
+                    "y": -0.04848175868391991,
+                    "z": -0.2638705372810364,
+                    "w": 0.4060482680797577
+                },
+                "scale": {
+                    "x": 0.20776298642158509,
+                    "y": 0.20776298642158509,
+                    "z": 0.20776298642158509
+                }
+            },
+            "shapeFilename": "shapes-06",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": -0.1276526153087616,
+                    "y": -0.10937923192977905,
+                    "z": 0.15772229433059693
+                },
+                "rotation": {
+                    "x": 0.5984770655632019,
+                    "y": -0.35139578580856326,
+                    "z": 0.40486153960227969,
+                    "w": 0.5953430533409119
+                },
+                "scale": {
+                    "x": 0.21959288418293,
+                    "y": 0.21959288418293,
+                    "z": 0.21959288418293
+                }
+            },
+            "shapeFilename": "shapes-06",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": -0.3385974168777466,
+                    "y": -0.14560779929161073,
+                    "z": -0.40528392791748049
+                },
+                "rotation": {
+                    "x": -0.24404427409172059,
+                    "y": -0.8934433460235596,
+                    "z": -0.3752243220806122,
+                    "w": 0.03752638027071953
+                },
+                "scale": {
+                    "x": 0.1604153960943222,
+                    "y": 0.1604153960943222,
+                    "z": 0.1604153960943222
+                }
+            },
+            "shapeFilename": "shapes-06",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": -0.27790114283561709,
+                    "y": -0.4399733543395996,
+                    "z": -0.12235361337661743
+                },
+                "rotation": {
+                    "x": 0.6424768567085266,
+                    "y": -0.22045159339904786,
+                    "z": -0.2782522737979889,
+                    "w": 0.6791173219680786
+                },
+                "scale": {
+                    "x": 0.06649704277515412,
+                    "y": 0.06649704277515412,
+                    "z": 0.06649704277515412
+                }
+            },
+            "shapeFilename": "shapes-06",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": 0.4205571413040161,
+                    "y": -0.3937479257583618,
+                    "z": 0.1087448000907898
+                },
+                "rotation": {
+                    "x": 0.8076543807983398,
+                    "y": -0.19959722459316255,
+                    "z": 0.5129883289337158,
+                    "w": 0.21142004430294038
+                },
+                "scale": {
+                    "x": 0.20503053069114686,
+                    "y": 0.20503053069114686,
+                    "z": 0.20503053069114686
+                }
+            },
+            "shapeFilename": "shapes-04",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        },
+        {
+            "transform": {
+                "position": {
+                    "x": -0.162954181432724,
+                    "y": 0.014153063297271729,
+                    "z": -0.18706223368644715
+                },
+                "rotation": {
+                    "x": 0.7188477516174316,
+                    "y": 0.14447088539600373,
+                    "z": -0.6615713834762573,
+                    "w": 0.1571921408176422
+                },
+                "scale": {
+                    "x": 0.116875559091568,
+                    "y": 0.116875559091568,
+                    "z": 0.116875559091568
+                }
+            },
+            "shapeFilename": "shapes-06",
+            "spoutReceiverName": "",
+            "shapeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "audioReactiveScale": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "audioReactiveStrength": 1.0,
+            "story": {
+                "title": "",
+                "body": ""
+            }
+        }
+    ],
+    "settings": {
+        "fadeInDuration": 0.5,
+        "fadeOutDuration": 1.0,
+        "rotate2D": false,
+        "randomWhiteCount": 8,
+        "randomBlackCount": 9,
+        "randomMinSize": 0.0,
+        "randomMaxSize": 0.31266891956329348,
+        "randomizeView": false,
+        "randomCreateNewShapes": true,
+        "randomFileCount": 1,
+        "randomSelectionPercentage": 0.20000000298023225,
+        "randomWhiteShapeFilenames": [
+            "shapes-04",
+            "shapes-06"
+        ],
+        "randomBlackShapeFilenames": [],
+        "spaceNavigatorTranslationSensitivity": 0.30000001192092898,
+        "spaceNavigatorRotationSensitivity": 10.0,
+        "worldRotationSensitivity": -0.20000000298023225,
+        "isAudioReactive": true,
+        "overallAudioGain": 1.0,
+        "framingData": {
+            "showFrame2D": false,
+            "showFrame3D": false,
+            "showStencilCube": true,
+            "frameColor": {
+                "r": 0.4628121852874756,
+                "g": 0.2593139708042145,
+                "b": 0.540765106678009,
+                "a": 0.501960813999176
+            },
+            "aspectRatio": 1.0
+        },
+        "antimatterGrid01": {
+            "use": true,
+            "amount": 0.0,
+            "lifetime": 0.10000000149011612,
+            "opacity": 0.03529411926865578
+        },
+        "antimatterGrid02": {
+            "use": false,
+            "amount": 653.3284912109375,
+            "lifetime": 2.8720271587371828,
+            "opacity": 0.05882352963089943
+        },
+        "antimatterGrid03": {
+            "use": false,
+            "amount": 1000.0,
+            "lifetime": 0.2719893455505371,
+            "opacity": 0.03529411926865578
+        },
+        "antimatterGrid04": {
+            "use": false,
+            "amount": 117.56354522705078,
+            "lifetime": 3.392031669616699,
+            "opacity": 0.09803921729326248
+        },
+        "ratingData": {
+            "rating": -1
+        }
+    }
+}
